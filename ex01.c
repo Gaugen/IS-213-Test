@@ -1,6 +1,6 @@
 #include <unistd.h> 
 #include <stdio.h> 
-
+//Tor var her
 int main() 
 {
 	int ret; // integer variable type storing return value from truncate
